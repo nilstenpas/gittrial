@@ -1,2 +1,2 @@
 # gittrial
-this is was git trial
+this was a git trial
